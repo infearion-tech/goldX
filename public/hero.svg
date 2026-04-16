@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#f6e27a"/>
+      <stop offset="1" stop-color="#c89b2b"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#071426" rx="16"/>
+  <g transform="translate(60,60)">
+    <rect x="0" y="0" width="480" height="280" rx="18" fill="url(#g)" opacity="0.15"/>
+    <g transform="translate(40,40)">
+      <circle cx="60" cy="60" r="36" fill="#f7e9b0"/>
+      <rect x="120" y="36" width="220" height="92" rx="8" fill="#fff" opacity="0.08"/>
+      <rect x="120" y="140" width="260" height="70" rx="8" fill="#fff" opacity="0.06"/>
+      <text x="40" y="220" fill="#fff" font-size="18">Gold storage illustration</text>
+    </g>
+  </g>
+</svg>
